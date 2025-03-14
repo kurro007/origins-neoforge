@@ -1,7 +1,7 @@
 # Origins (Forge)
 
 This is the repository that is used to build Origins Forge.
-## Kurro was here
+## Kurro wasn't here
 ## Building
 
 To build this repository, first clone it, preferably with the `--recurse-submodules` flag.
